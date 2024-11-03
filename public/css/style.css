@@ -124,15 +124,15 @@ h3 {
     display: none;
   }
 
-  body {  
-    font-size: 100%
-  }
-
 .post-preview a {
   color: #000;
   }
 
 .post-preview a:hover {
   color: #454545;
+  }
+
+  .navbar__menu a {  
+    font-size: 20px; 
   }
 }
