@@ -1,0 +1,14 @@
+{{ define "main" }}  
+<section class="section">  
+    <div class="container">  
+          <h1 class="title">{{ .Title }}</h1>
+          <div class="date">   
+            <p><time>{{ .PublishDate.Format "January 2, 2006" }}</time>
+             </p>  
+          </div>    
+          <div class="content">  
+            {{ .Content }}  
+          </div>  
+        </div>  
+</section>  
+{{ end }}  

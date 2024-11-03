@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews on Brian Flynn</title>
+    <link>http://localhost:1313/categories/reviews/</link>
+    <description>Recent content in Reviews on Brian Flynn</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SYONCON AXE5400 Wi-Fi card</title>
+      <link>http://localhost:1313/blog/syoncon-intel-ax210-pcie-wi-fi-card/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/syoncon-intel-ax210-pcie-wi-fi-card/</guid>
+      <description>&lt;p&gt;I recently purchased the SYONCON AXE5400 PCIe Wi-Fi card with the Intel AX210 chip to replace the aging and unreliable Fenvi T919 card in my PC.&lt;/p&gt;&#xA;&lt;p&gt;The packaging is very clean and professional looking, unlike other similarly priced cards from other manufacturers on Amazon.&lt;/p&gt;&#xA;&lt;p&gt;The box includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;A bag with screws to mount the card in place&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Screwdriver&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Two antennas&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The card itself&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Instruction pamphlet in multiple languages&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Installing the card was a breeze, and installing the drivers was even easier. All I had to do was get the Intel wireless driver from their website, and install. It worked straight after.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apple iPhone 13 - Short review</title>
+      <link>http://localhost:1313/blog/the-iphone-13-a-short-review/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/the-iphone-13-a-short-review/</guid>
+      <description>&lt;p&gt;I recently got an iPhone 13 from &lt;a href=&#34;http://refurbed.ie&#34;&gt;refurbed.ie&lt;/a&gt;, a refurbished electronics website, as an early birthday present.&lt;/p&gt;&#xA;&lt;p&gt;As a lifelong Android user, I was curious to see what using an iPhone was like and how much it differed from my previous phone, a Google Pixel 6a.&lt;/p&gt;&#xA;&lt;h3 id=&#34;setting-it-up&#34;&gt;Setting it up&lt;/h3&gt;&#xA;&lt;p&gt;The setup process was pretty easy. Apple provides an app called &amp;ldquo;Move to iOS&amp;rdquo; that lets you transfer your data from an Android phone to an iPhone. My contacts, SMS messages, photos, videos and apps were transferred. Despite toggling the option to move my WhatsApp chats in the app, WhatsApp on the iPhone refused to see my chats at all. I ended up having to reset the iPhone and start the whole process all over again, after which WhatsApp worked perfectly. I still have no clue what could&amp;rsquo;ve caused this, but it was a little annoying.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

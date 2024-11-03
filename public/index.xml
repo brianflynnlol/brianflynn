@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Brian Flynn</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Brian Flynn</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Oct 2024 23:58:42 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My iPod Touch (it&#39;s older than me)</title>
+      <link>http://localhost:1313/blog/ipod-touch/</link>
+      <pubDate>Thu, 24 Oct 2024 23:58:42 +0100</pubDate>
+      <guid>http://localhost:1313/blog/ipod-touch/</guid>
+      <description>&lt;p&gt;I recently snagged a 1st generation 2007 iPod Touch for €20 at CeX in Arklow.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/iPodHome.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;restoration-process&#34;&gt;Restoration process&lt;/h2&gt;&#xA;&lt;p&gt;The iPod initially wouldn&amp;rsquo;t boot into the OS. Let me tell you, restoring it was a nightmare.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Apple does not have iPhone OS 3 on their servers anymore, so restoring via a Mac does not work&lt;/li&gt;&#xA;&lt;li&gt;Restoring on iTunes for Windows did not work either for the same reason. Even attempting to use an unmodified original IPSW file, it failed to flash on my device.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I had to use &lt;a href=&#34;https://github.com/LukeZGD/Legacy-iOS-Kit&#34;&gt;Legacy iOS Kit&lt;/a&gt; on my Mac to restore the iPod and bypass the activation process.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SYONCON AXE5400 Wi-Fi card</title>
+      <link>http://localhost:1313/blog/syoncon-intel-ax210-pcie-wi-fi-card/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/syoncon-intel-ax210-pcie-wi-fi-card/</guid>
+      <description>&lt;p&gt;I recently purchased the SYONCON AXE5400 PCIe Wi-Fi card with the Intel AX210 chip to replace the aging and unreliable Fenvi T919 card in my PC.&lt;/p&gt;&#xA;&lt;p&gt;The packaging is very clean and professional looking, unlike other similarly priced cards from other manufacturers on Amazon.&lt;/p&gt;&#xA;&lt;p&gt;The box includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;A bag with screws to mount the card in place&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Screwdriver&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Two antennas&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The card itself&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Instruction pamphlet in multiple languages&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Installing the card was a breeze, and installing the drivers was even easier. All I had to do was get the Intel wireless driver from their website, and install. It worked straight after.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What&#39;s on my desk - 2024</title>
+      <link>http://localhost:1313/blog/whats-on-my-desk-2024/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/whats-on-my-desk-2024/</guid>
+      <description>&lt;p&gt;I use a MacBook Pro as my main computer. It&amp;rsquo;s served me &lt;em&gt;very&lt;/em&gt; well for the past 7 months and I do not plan on upgrading or replacing it for possibly the next decade unless it breaks. I used to be quite anti-Apple, but since switching to a Mac, I finally understand why people love macOS; I can throw anything at it and it&amp;rsquo;ll do it with no complaints, unlike Windows, which has gotten buggy and overly tedious to use, in my opinion.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pictures from Mount Usher Gardens</title>
+      <link>http://localhost:1313/blog/mount-usher-gardens/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/mount-usher-gardens/</guid>
+      <description>&lt;p&gt;Today, I went out to Mount Usher Gardens in Ashford, Co. Wicklow. Here are some pictures from my outing.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/IMG_2943-scaled.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/IMG_2946-scaled.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/IMG_2948-scaled.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/IMG_2949-scaled.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/IMG_2953-scaled.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/IMG_2965-scaled.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/IMG_2966-1-scaled.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/IMG_2976-scaled.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/IMG_2998-1-scaled.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/IMG_3015-scaled.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pictures from my outing to Wicklow</title>
+      <link>http://localhost:1313/blog/pictures-from-my-outing-in-wicklow/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/pictures-from-my-outing-in-wicklow/</guid>
+      <description>&lt;p&gt;I went out (shocking, I know) to have a walk around Wicklow. Here is a selection of a few photos I took during my trip out.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/F314B78B-060D-4987-B53A-EE231BCDFA18_1_102_o.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/F2B4EFD0-2134-4FFE-95C8-075A5CF24EF9_1_102_o.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/F1F7782C-C331-4B66-B8E6-8410FAD88752_1_102_o.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/AF7DCEF6-36DE-4EC4-A0BA-B474DD5E9E88_1_102_o.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/4CE7B06F-90BD-4FC5-BB34-50D0D2299DA1_1_102_o.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apple iPhone 13 - Short review</title>
+      <link>http://localhost:1313/blog/the-iphone-13-a-short-review/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/the-iphone-13-a-short-review/</guid>
+      <description>&lt;p&gt;I recently got an iPhone 13 from &lt;a href=&#34;http://refurbed.ie&#34;&gt;refurbed.ie&lt;/a&gt;, a refurbished electronics website, as an early birthday present.&lt;/p&gt;&#xA;&lt;p&gt;As a lifelong Android user, I was curious to see what using an iPhone was like and how much it differed from my previous phone, a Google Pixel 6a.&lt;/p&gt;&#xA;&lt;h3 id=&#34;setting-it-up&#34;&gt;Setting it up&lt;/h3&gt;&#xA;&lt;p&gt;The setup process was pretty easy. Apple provides an app called &amp;ldquo;Move to iOS&amp;rdquo; that lets you transfer your data from an Android phone to an iPhone. My contacts, SMS messages, photos, videos and apps were transferred. Despite toggling the option to move my WhatsApp chats in the app, WhatsApp on the iPhone refused to see my chats at all. I ended up having to reset the iPhone and start the whole process all over again, after which WhatsApp worked perfectly. I still have no clue what could&amp;rsquo;ve caused this, but it was a little annoying.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;what-do-i-know&#34;&gt;What do I know?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Using and maintaining Windows PCs, and Macs.&lt;/li&gt;&#xA;&lt;li&gt;Amateur music production with Ableton Live.&lt;/li&gt;&#xA;&lt;li&gt;Davinci Resolve and Adobe Premiere Pro&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;site-credits&#34;&gt;Site credits&lt;/h2&gt;&#xA;&lt;p&gt;This site is built with HTML, CSS and the static site generator &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The HTML and CSS code is done with help from &lt;a href=&#34;https://draft.dev/learn/creating-hugo-themes&#34;&gt;this tutorial from Draft.dev&lt;/a&gt; and ideas from Eric Murphy&amp;rsquo;s &lt;a href=&#34;https://github.com/ericmurphyxyz/ericmurphy.xyz&#34;&gt;GitHub repo&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;It all helped with working out, cleaning up and polishing stuff!&lt;/p&gt;&#xA;&lt;h2 id=&#34;contact-me&#34;&gt;Contact me&lt;/h2&gt;&#xA;&lt;p&gt;Is there any issues with this website? Please let me know by emailing me at &lt;a href=&#34;mailto:brian@brianflynn.org&#34;&gt;brian@brianflynn.org&lt;/a&gt;. If there&amp;rsquo;s any accessibility issues, I&amp;rsquo;ll prioritise those.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tech/</guid>
+      <description>&lt;h2 id=&#34;my-history-with-tech&#34;&gt;My history with tech&lt;/h2&gt;&#xA;&lt;h1 id=&#34;2016&#34;&gt;2016&lt;/h1&gt;&#xA;&lt;p&gt;I got my first ever &amp;ldquo;laptop&amp;rdquo; for Christmas in 2016. It was a Kurio Smart 2-in-1 Windows tablet with 1 whole gigabyte of RAM, 32 gigabytes of storage, and an Intel Atom CPU.&lt;/p&gt;&#xA;&lt;h1 id=&#34;2018&#34;&gt;2018&lt;/h1&gt;&#xA;&lt;p&gt;In the summer of 2018, I got my first proper laptop. An ASUS Vivobook X540UA with an Intel Core i5 7200U, 8GB of RAM, and 1TB of storage.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;d eventually upgrade it to 16GB of RAM, along with a 500GB SSD, in 2020.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

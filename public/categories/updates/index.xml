@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates on Brian Flynn</title>
+    <link>http://localhost:1313/categories/updates/</link>
+    <description>Recent content in Updates on Brian Flynn</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My new website</title>
+      <link>http://localhost:1313/blog/my-new-website/</link>
+      <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-new-website/</guid>
+      <description>&lt;p&gt;Today, I have created the new &lt;a href=&#34;https://brianflynn.org/&#34;&gt;brianflynn.org&lt;/a&gt; website. A home to learn about me and see what I am up to!&lt;/p&gt;&#xA;&lt;p&gt;Thanks to Simply Static, a WordPress Static Site Generator, I can run the new website with no cost with Cloudflare Pages.&lt;/p&gt;&#xA;&lt;p&gt;The site features 4 distinct sections:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Hero to act as an introduction to me&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;A list of my projects to show off my current work, including BRIANS NEWS&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Info about my skills and ahchievements&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
