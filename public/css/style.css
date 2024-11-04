@@ -133,6 +133,12 @@ h3 {
   }
 
   .navbar__menu a {  
-    font-size: 20px; 
+    font-size: 25px;
+  }
+
+  .home-posts {
+    background-color: #F2F2F2;
+    padding: 0px;
+    border-radius: 0px;
   }
 }
