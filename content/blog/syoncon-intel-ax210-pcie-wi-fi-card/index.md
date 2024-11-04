@@ -25,7 +25,7 @@ The box includes:
 
 Installing the card was a breeze, and installing the drivers was even easier. All I had to do was get the Intel wireless driver from their website, and install. It worked straight after.
 
-![](images/Screenshot-2024-08-31-at-17-38-34-Intel®-Wi-Fi-6E-AX210-1024x592.png)
+![](images/IntelWebsite.jpg)
 
 Using the internet with this was such a relief after having to deal with the slow and outdated Wi-Fi card I had previously.
 
